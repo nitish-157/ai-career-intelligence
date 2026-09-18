@@ -1,6 +1,6 @@
 import os
 
-GROQ_MODEL = "llama-3.3-70b-versatile"
+GROQ_MODEL = "openai/gpt-oss-20b"
 
 def get_groq_api_key():
     try:
